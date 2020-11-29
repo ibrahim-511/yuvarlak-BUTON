@@ -1,0 +1,16 @@
+body{
+
+       margin: 70px;
+       padding: 0;
+       background-color: rgb(117, 117, 117);
+}
+.Buton1 {
+
+     background-color: black;
+     /*Border radius daki degeri azaltırsan ovallik daha az olur*/
+     border-radius: 20px;
+     text-decoration: none;
+     color: white;
+     margin: 300px;
+     padding: 20px;
+}
